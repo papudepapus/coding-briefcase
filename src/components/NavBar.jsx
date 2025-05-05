@@ -17,7 +17,7 @@ function NavBar() {
 
     useEffect(() => {
       const onScroll = () => {
-        if (window. scrollY > 50) {
+        if (window.scrollY > 50) {
             seScrolled(true)
         } else {
             seScrolled(false);
@@ -44,19 +44,19 @@ function NavBar() {
           </Navbar.Toggle>
           <Navbar.Collapse id="basic-navbar-nav">
             <Nav className="me-auto">
-              <Nav.Link href="#home" className={activeLink === 'home' ? 'active navbar-link' : 'navbar-link'} onClick={() => onUpdateActiveLink('home')} >Home</Nav.Link>
+              <Nav.Link href="#home" className={activeLink === 'home' ? 'active navbar-link' : 'navbar-link'} onClick={() => onUpdateActiveLink('home')}>Home</Nav.Link>
               <Nav.Link href="#skills" className={activeLink === 'skill' ? 'active navbar-link' : 'navbar-link'} onClick={() => onUpdateActiveLink('skills')} >Skills</Nav.Link>
               <Nav.Link href="#project" className={activeLink === 'projects' ? 'active navbar-link' : 'navbar-link'} onClick={() => onUpdateActiveLink('projects')} >Link</Nav.Link>
             </Nav>
             <span className='navbar-text'> 
               <div className="social-icon">
-                  <a target="_blank" href="https://www.linkedin.com/in/wilfri-corrales-4111802a5/">
+                  <a target="_blank" rel='noreferrer' href="https://www.linkedin.com/in/wilfri-corrales-4111802a5/">
                       <img src={navIcon1} alt="" />
                   </a>
-                  <a target="_blank" href="https://www.facebook.com/profile.php?id=100007203495642">
+                  <a target="_blank" rel='noreferrer' href="https://www.facebook.com/profile.php?id=100007203495642">
                       <img src={navIcon2} alt="" />
                   </a>
-                  <a target="_blank" href="https://discord.com/invite/YmHNbDy">
+                  <a target="_blank" rel='noreferrer' href="https://discord.com/invite/YmHNbDy">
                       <img src={navIcon3} alt="icon-discord" />
                   </a>
               </div>
