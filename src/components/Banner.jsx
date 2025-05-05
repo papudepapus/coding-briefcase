@@ -63,8 +63,8 @@ function Banner() {
                   {({isVisible}) => 
                     <div className={isVisible ? 'animate__animated animate__fadeIn' : ''}>
                       <span className="tagline">Welcome to my portafolio</span>
-                      <h1>{`Hi, i'm a webcoded `}<br /> <span className='wrap'>{text}</span></h1>
-                      <p>"Welcome to my digital portfolio. Here, you can explore my experience as a web developer, my technical expertise, and the exciting projects I've contributed to. My goal is to bring innovative and functional solutions to life that transform ideas into reality. Take a look around, and don't hesitate to connect with me!</p>
+                      <h1>{`I'm a webcoded `}<br /> <span className='wrap'>{text}</span></h1>
+                      <p>"Take a look at my portfolio. Here, you can explore my experience as a web developer, my technical expertise, and the exciting projects I've contributed to. My goal is to bring innovative and functional solutions to life that transform ideas into reality. Take a look around, and don't hesitate to connect with me!</p>
                       <HashLink to='#connect'>
                         <button className='bcb'>
                           <span>
