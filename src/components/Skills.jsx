@@ -35,7 +35,7 @@ function Skills() {
                 <Col>
                     <div className='skill-bx'>
                         <h2>Skills</h2>
-                        <p>Throughout my journey, I've cultivated a diverse set of skills that empower me to craft engaging and functional digital experiences. From visual design to code implementation, each ability I've honed contributes to transforming ideas into real-world solutions. Below, you'll find the tools and technologies I've mastered and regularly apply in my work.</p>
+                        <p>I've cultivated a diverse set of skills that empower me to craft engaging and functional digital experiences. From visual design to code implementation, each ability I've honed contributes to transforming ideas into real-world solutions. You'll find the tools and technologies I've mastered and regularly apply in my work.</p>
                         <Carousel responsive={responsive} infinite={true} className="skill-slider">
                             <div className="item">
                                 <img src={meter1} alt="Imagen" />
