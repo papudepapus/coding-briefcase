@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/coding-briefcase/static/css/main.4c43c76c.css",
-    "main.js": "/coding-briefcase/static/js/main.1f27ab3e.js",
+    "main.js": "/coding-briefcase/static/js/main.87fe3e6b.js",
     "static/js/453.17821bd3.chunk.js": "/coding-briefcase/static/js/453.17821bd3.chunk.js",
     "static/media/Dragon.png": "/coding-briefcase/static/media/Dragon.1144f1629d82310f2590.png",
     "static/media/color-sharp.png": "/coding-briefcase/static/media/color-sharp.bea361cfef80fefc2d1e.png",
@@ -14,6 +14,7 @@
     "static/media/toa-a.png": "/coding-briefcase/static/media/toa-a.939a9304b6a5f5750eed.png",
     "static/media/toro-robotico.png": "/coding-briefcase/static/media/toro-robotico.a1d2408e7c12f089cd6a.png",
     "static/media/cats-api.png": "/coding-briefcase/static/media/cats-api.7105cb32cf9c81530646.png",
+    "static/media/E-COMMERCE.png": "/coding-briefcase/static/media/E-COMMERCE.fe05a525d346202bccaa.png",
     "static/media/banner.jpg": "/coding-briefcase/static/media/banner.06e0843f1cc4fc43114a.jpg",
     "static/media/ProyectoMario.png": "/coding-briefcase/static/media/ProyectoMario.065778e4afc5f23e132c.png",
     "static/media/CentraNo2-Bold.ttf": "/coding-briefcase/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
@@ -34,11 +35,11 @@
     "static/media/nav-icon1.svg": "/coding-briefcase/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
     "static/media/nav-icon2.svg": "/coding-briefcase/static/media/nav-icon2.178f497aa17b70c42df2a1a8c926ed01.svg",
     "main.4c43c76c.css.map": "/coding-briefcase/static/css/main.4c43c76c.css.map",
-    "main.1f27ab3e.js.map": "/coding-briefcase/static/js/main.1f27ab3e.js.map",
+    "main.87fe3e6b.js.map": "/coding-briefcase/static/js/main.87fe3e6b.js.map",
     "453.17821bd3.chunk.js.map": "/coding-briefcase/static/js/453.17821bd3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4c43c76c.css",
-    "static/js/main.1f27ab3e.js"
+    "static/js/main.87fe3e6b.js"
   ]
 }
