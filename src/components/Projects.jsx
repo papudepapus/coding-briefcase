@@ -8,6 +8,7 @@ import gameImg1 from '../img/ProyectoMario.png';
 import gameImg2 from '../img/laVieja.png';
 import viteImg1 from '../img/cats-api.png';
 import viteImg2 from '../img/movie-search-api.png';
+import viteImg3 from '../img/E-COMMERCE.png';
 import { Col, Container, Row, Nav, Tab } from 'react-bootstrap'
 import ProjectCard from './ProjectCard.jsx';
 import colorSharp2 from '../assets/img/color-sharp2.png';
@@ -78,6 +79,12 @@ function Projects() {
             imgUrl: viteImg2,
             projectLink: 'https://papudepapus.github.io/componente-buscador/'
         },
+        {
+            title: 'E-COMMERCE',
+            description: 'Our e-commerce platform is a React-based online store that delivers a seamless shopping experience by using custom hooks for isolated component logic, the Context API to share essential data (like the shopping cart state) without excessive prop drilling, and reducers to centralize and predictably manage state updates.',
+            imgUrl: viteImg3,
+            projectLink: 'https://papudepapus.github.io/E-COMMERCE-2/'
+        }
     ]
 
   return (
