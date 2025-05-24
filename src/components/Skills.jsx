@@ -40,22 +40,22 @@ function Skills() {
                             <div className="item">
                                 <img src={meter1} alt="Imagen" />
                                 <h5>Web Development</h5>
-                                <p>HTML, CSS3, Javascript(ES6+), React, Pseint, <span className='frameworks'>Python</span></p>
+                                <p>HTML, CSS3, Javascript(ES6+), Pseint, SQL, MySQL, Python, RPG Maker</p>
+                            </div>
+                            <div className="item">
+                                <img src={meter2} alt="Imagen" />
+                                <h5>Tools & Frameworks</h5>
+                                <p>Git, GitHub, Bootstrap, Tailwind CSS, Phaser, Water.css, React, WordPress, Blogger, Netlify <span className='frameworks'>Node.js & Express.j</span></p>
+                            </div>
+                            <div className="item">
+                                <img src={meter3} alt="Imagen" />
+                                <h5>Design, Management & AI</h5>
+                                <p>Excalidraw, Mailchimp, Canvas, Raphael, Trello, huggingface, googleColab, googleAiStudio, Prompt Engineering and AI Agent Development</p>
                             </div>
                             <div className="item">
                                 <img src={meter3} alt="Imagen" />
                                 <h5>Design & UI/UX</h5>
                                 <p>Responsive Design, Flexbox, Grid, Brand Identity</p>
-                            </div>
-                            <div className="item">
-                                <img src={meter2} alt="Imagen" />
-                                <h5>Tools & Frameworks</h5>
-                                <p>Git, GitHub, Bootstrap, Tailwind CSS, Phaser, Water.css <span className='frameworks'>Node.js & Express.j</span></p>
-                            </div>
-                            <div className="item">
-                                <img src={meter3} alt="Imagen" />
-                                <h5>Design, Management & AI</h5>
-                                <p>Excalidraw, Blogger, WordPress, RPG Maker, Mailchimp, Canvas, Raphael, Trello</p>
                             </div>
                         </Carousel>
 

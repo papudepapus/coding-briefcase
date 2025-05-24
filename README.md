@@ -1,4 +1,4 @@
-# Programming Toolkit
+# Coding Briefcase
 
 Purpose and Scope
 
